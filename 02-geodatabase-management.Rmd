@@ -131,7 +131,9 @@ Use the tools from this section to conduct your own analysis and answer the foll
 
 ##### Q9: Which fire centre had the highest total burned area in ha? The highest mean fire size? (Exclude the Null result, as this represents two fires that were mapped outside of the BC boundaries.) {.unnumbered}  
 
-##### Q10: Do you see any patterns in the total annual burned area between 1920 and the present day? Do some research and discuss what do you think could be driving these patterns. Include a Line Chart to support your answer. Answer in less than 200 words. (HINT: To answer this question first create a summary table, then review Lab 1 for instructions on how to create a Line Chart using the data from this table.) {.unnumbered}
+##### Deliverable 1: Generate a line chart showing the sum of burned area over time in hectares. (Hint: review what we covered in Lab 1 for instructions on how to generate a Line Chart using the data from this table)
+
+##### Q10: Do you see any patterns in the total annual burned area between 1920 and the present day? Do some research and discuss what you think could be driving these patterns. Answer in less than 200 words. In your answer, refer to the line chart you submitted previously {.unnumbered}
 
 ------------------------------------------------------------------------
 
@@ -209,4 +211,4 @@ Click on **Map Frame 1** then in the top ribbon select **Extent Indicator** > **
 
 Save the map a PNG (easier to copy and paste in a Word document) or PDF in a folder you will be able to find. Make sure the Resolution is set to at least 300 DPI. 
 
-**Include your map in the final deliverables.**
+**Submit your final map in the Deliverable 2 Question on Canvas.**
